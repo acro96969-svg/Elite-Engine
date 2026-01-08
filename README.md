@@ -6,5 +6,5 @@ An AI-powered tool for deep analysis of PDFs and Images using a local SmolLM2 mo
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/acro96969-svg/elite-engine.git](https://github.com/YourUsername/elite-engine.git)
+   git clone [https://github.com/acro96969-svg/elite-engine.git](https://github.com/acro96969-svg/elite-engine.git)
    cd elite-engine
