@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+llama-cpp-python
+huggingface-hub
+jinja2
+pymupdf
+pytesseract
+pillow
+python-multipart
